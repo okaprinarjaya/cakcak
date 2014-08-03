@@ -1,0 +1,14 @@
+New feature for the software. This feature comes from a ticket from a 
+issue managemen system of the software. 
+//
+//
+//
+//
+// do something according with the request
+// do something according with the request
+// do something cool according to the request
+// do something awesome! according to the request
+//
+//
+// fill with awesome algorithm
+// fill with cool interaction
